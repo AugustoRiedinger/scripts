@@ -1,0 +1,2 @@
+usr/bin/emacs --daemon &
+emacsclient -c -a 'emacs'
