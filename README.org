@@ -2,7 +2,7 @@
 
 * cwd - Copy Working Directory
 
-Copy your current directory to the system's clipboard.
+Copy the path to your current directory to the system's clipboard.
 
  - Dependecies: xclip
 
