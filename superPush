@@ -1,2 +1,0 @@
-xclip -sel c < $HOME/scripts/.git-token
-git push origin master
