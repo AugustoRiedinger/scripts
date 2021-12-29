@@ -1,11 +1,14 @@
 #+TITLE: SCRIPTS
 
+* cubeide & cubemx
+
+Launchers for the ST software CubeIDE and CubeMX.
+
 * cwd - Copy Working Directory
 
 Copy the path to your current directory to the system's clipboard.
 
  - Dependecies: xclip
-
 * fm6000
 
 Script from the AUR to show system information (similar to neofetch).
@@ -31,5 +34,3 @@ Prints basic pacman commands in the terminal.
 * rename*
 
 Used to rename pictures or pdfs in sequential order (0001.jpg, 0002.jpg ..., 000x.jpg).
-* remap
-Used to remap caps lock to esc with xmodmap.
