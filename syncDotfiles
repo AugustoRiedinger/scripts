@@ -7,7 +7,7 @@ cp $HOME/.config/qutebrowser/config.py $HOME/dotfiles/.config/qutebrowser/config
 cp -r $HOME/.config/rofi $HOME/dotfiles/.config/rofi/
 cp $HOME/.doom.d/config.el $HOME/dotfiles/.doom.d/config.el
 cp $HOME/.doom.d/custom.el $HOME/dotfiles/.doom.d/custom.el
-cp $HOME/.doom.d/init.el $HOME/dotfiles/.doom.d/initl.el
+cp $HOME/.doom.d/init.el $HOME/dotfiles/.doom.d/init.el
 cp $HOME/.doom.d/packages.el $HOME/dotfiles/.doom.d/packages.el
 cp $HOME/.doom.d/README.org $HOME/dotfiles/.doom.d/README.org
 cp -r $HOME/.doom.d/snippets $HOME/dotfiles/.doom.d/snippets
