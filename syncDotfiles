@@ -12,4 +12,4 @@ cp $HOME/.doom.d/packages.el $HOME/dotfiles/.doom.d/packages.el
 cp $HOME/.doom.d/README.org $HOME/dotfiles/.doom.d/README.org
 cp -r $HOME/.doom.d/snippets $HOME/dotfiles/.doom.d/snippets
 cp $HOME/.bashrc $HOME/dotfiles/.bashrc
-cp $HOME/.config/zathura/zathurarc $HOME/.config/zathura/zathurarc
+cp $HOME/.config/zathura/zathurarc $HOME/dotfiles/.config/zathura/zathurarc
