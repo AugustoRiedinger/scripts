@@ -1,4 +1,2 @@
-echo 'Go to /usr/lib with cd'
-echo 'Then, type:'
-echo '   sudo ln -s libncursesw.so.6.3 libncurses.so.5'
-echo '   sudo ln -s libncursesw.so.6.3 libtinfo.so.5'
+sudo ln -s libncursesw.so.6.3 libncurses.so.5'
+sudo ln -s libncursesw.so.6.3 libtinfo.so.5'

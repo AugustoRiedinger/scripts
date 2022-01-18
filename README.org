@@ -9,6 +9,11 @@ Launchers for the ST software CubeIDE and CubeMX.
 Copy the path to your current directory to the system's clipboard.
 
  - Dependecies: xclip
+* fixAtollic
+
+Script to fix Atollic TRUEStudio Debugger.
+
+*IMPORTANT* - This script MUST be run on //usr//lib//
 * fm6000
 
 Script from the AUR to show system information (similar to neofetch).
