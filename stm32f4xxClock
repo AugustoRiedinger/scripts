@@ -1,0 +1,2 @@
+cp $HOME/atollicWorkspace/clock/system_stm32f4xx.c src/
+cp $HOME/atollicWorkspace/clock/stm32f4xx.h Libraries/Device/ST/STM32F4xx/Include/

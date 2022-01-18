@@ -39,7 +39,10 @@ Prints basic pacman commands in the terminal.
 * rename*
 
 Used to rename pictures or pdfs in sequential order (0001.jpg, 0002.jpg ..., 000x.jpg).
+* stm32f4xxClock
+Copies the needed files to modify the clock acording to the board.
 
+*IMPORTANT* - Must be run inside the project directory to properly work.
 * syncDotfiles
 
 Script used to cp all dotfiles in the system to $HOME/dotfiles. Recommended to run this command after changing any dotfiles or updating the github page.
