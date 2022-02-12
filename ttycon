@@ -1,1 +1,1 @@
-cat .ttycon
+cat $HOME/scripts/.ttycon
