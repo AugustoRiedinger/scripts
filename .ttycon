@@ -1,0 +1,23 @@
+El puerto serie se conecta en /dev/ttyUSB0 usualmente.
+
+# Habilitar los permisos de escritura y lectura en el puerto:
+# sudo chmod o+rw /dev/ttyUSB0
+#
+# # Configurar la velocidad de trabajo del puerto serie:
+# stty -F /dev/ttyUSB0 raw speed 9600 cs8 -cstopb -parenb
+#
+# # Enviar caracteres o cadena de caracteres al puerto serie:
+# echo -n 'a' > /dev/ttyUSB0
+#
+# # Enviar los contenidos de un archivo al puerto serie:
+# cat file.txt > /dev/ttyUSB0
+#
+# # Enviar una cadena equivalente a echo -n:
+# cat test.txt | tr '\n' '#' > /dev/ttyUSB0
+#
+# # Leer datos desde la terminal:
+# cat /dev/ttyUSB0
+#
+# # Leer datos desde la terminal con aplicacion externa:
+# picocom -b 9600 -f n -p n -d 8 /dev/ttyUSB0
+#
